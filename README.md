@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Misa 👋
 
 Welcome to my GitHub profile! I'm an aspiring full-stack developer currently diving into web development, data structures & algorithms, and the Japanese language. I'm passionate about coding and improving every day!
 
@@ -19,21 +19,21 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer currently div
 ## 📚 Technologies I Use
 
 - **Languages**: JavaScript, HTML, CSS, Python
-- **Frameworks**: React, Node.js
-- **Tools**: Git, GitHub, VS Code, Docker
-- **Databases**: MongoDB, PostgreSQL
+- **Frameworks**: ...
+- **Tools**: Git, GitHub, VS Code 
+- **Databases**: ...
 - **Learning**: Data Structures, Algorithms, and **Japanese**!
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Musa-De-Code&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🤝 Let's Connect!
 
 Feel free to check out my repositories or connect with me on social media! I’d love to collaborate, learn from others, and share knowledge.
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter/X**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+<!--  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) -->
+- **Twitter/X**: [@YourTwitterHandle](https://twitter.com/@Misa_De_codes)
 
 ## ⚡ Fun Fact
 
