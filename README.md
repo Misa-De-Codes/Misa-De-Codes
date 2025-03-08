@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer currently div
 Feel free to check out my repositories or connect with me on social media! I’d love to collaborate, learn from others, and share knowledge.
 
 <!--  - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) -->
-- **Twitter/X**: [@YourTwitterHandle](https://twitter.com/@Misa_De_codes)
+- **Twitter/X**: [@Misa_De_codes](https://twitter.com/@Misa_De_codes)
 
 ## ⚡ Fun Fact
 
