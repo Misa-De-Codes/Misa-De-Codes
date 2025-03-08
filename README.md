@@ -18,11 +18,11 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer currently div
 
 ## 📚 Technologies I Use
 
-- **Languages**: JavaScript, HTML, CSS, Python
+ <!--   - **Languages**: JavaScript, HTML, CSS, Python
 - **Frameworks**: ...
 - **Tools**: Git, GitHub, VS Code 
 - **Databases**: ...
-- **Learning**: Data Structures, Algorithms, and **Japanese**!
+- **Learning**: Data Structures, Algorithms, and **Japanese**! -->
 
 ## 📈 GitHub Stats
 
