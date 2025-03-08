@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer currently div
 - Build meaningful projects and contribute to open-source.
 - Stay focused, even when things get tough. 💪
 
-## 📚 Technologies I Use
+ <!--   ## 📚 Technologies I Use
 
- <!--   - **Languages**: JavaScript, HTML, CSS, Python
+- **Languages**: JavaScript, HTML, CSS, Python
 - **Frameworks**: ...
 - **Tools**: Git, GitHub, VS Code 
 - **Databases**: ...
