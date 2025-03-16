@@ -15,5 +15,3 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer currently div
 - Pass **N5** in Japanese and keep progressing to N3 and beyond.
 - Build meaningful projects and contribute to open-source.
 - Stay focused, even when things get tough. 💪
-
-- 
