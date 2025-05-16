@@ -1,5 +1,9 @@
 # ✨ Musa no GitHub ~ 闇の中に光る希望 ✨
 
+<div align="center">
+  <img src='https://youtu.be/22tJr6bHqL0?si=jHvj7Eojc7ohHArb' alt="visitor count" style='width: 640px'>
+</div>
+
 ## 👾 About Me ~ 僕は誰？
 
 **Name:** Musa 「ムサ」  
