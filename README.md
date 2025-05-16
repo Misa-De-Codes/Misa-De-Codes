@@ -1,10 +1,14 @@
 # ✨ Musa no GitHub ~ 闇の中に光る希望 ✨
 
 <div align="center">
-        <video src="/pictures/My Dress-up b.mp4"></video>
+  <!-- Option 1: Using a GIF -->
+  <img src="/pictures/My-Dress-up.gif" alt="Profile Animation">
+  
+  <!-- OR Option 2: Thumbnail linking to video -->
+  <a href="URL_TO_YOUR_VIDEO">
+    <img src="/pictures/My-Dress-up-thumbnail.png" alt="Click to watch video">
+  </a>
 </div>
-
-
 
 
 ## 👾 About Me ~ 僕は誰？
