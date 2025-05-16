@@ -16,7 +16,7 @@ My dream? To land a tech job, defeat my rival, and… m-maybe make *Sushi-senpai
 ## 🧠 Skills & Weapons
 
 
----
+
 
 > 「I may be a beginner… b-but I'm not giving up!」  
 > Powered by pure willpower, bugs, and the burning spirit of rivalry!
