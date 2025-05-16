@@ -26,8 +26,10 @@ My dream? To land a tech job, defeat my rival, and… m-maybe make *Sushi-senpai
 
 
 ## GitHub Stats
-<div align="center">
+## GitHub Stats
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap">
   <img src="https://github-readme-stats.vercel.app/api?username=misa-de-codes&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misa-de-codes&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
