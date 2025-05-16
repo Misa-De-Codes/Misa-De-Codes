@@ -1,15 +1,8 @@
 # ✨ Musa no GitHub ~ 闇の中に光る希望 ✨
 
 <div align="center">
-  <!-- Option 1: Using a GIF -->
-  <img src="/pictures/My-Dress-up.gif" alt="Profile Animation">
-  
-  <!-- OR Option 2: Thumbnail linking to video -->
-  <a href="URL_TO_YOUR_VIDEO">
-    <img src="/pictures/My-Dress-up-thumbnail.png" alt="Click to watch video">
-  </a>
+  <img width="100%" src="https://i.imgur.com/r4pKm5M.gif"  />
 </div>
-
 
 ## 👾 About Me ~ 僕は誰？
 
