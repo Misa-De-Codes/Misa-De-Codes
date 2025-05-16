@@ -2,7 +2,7 @@
 
 <div align="center" style='displat: flex; justify-context: center'>
   <a target="_blank">
-    <img style='object-fit: cover; width: 640px; height: 360px' src="pictures/anime-girl-anime.gif" height="30">
+    <img style='object-fit: cover; width: 640px' src="pictures/anime-girl-anime.gif" height="30">
   </a>
 </div>
 
