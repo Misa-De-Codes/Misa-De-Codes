@@ -1,10 +1,10 @@
-# ✨ Musa no GitHub ~ 闇の中に光る希望 ✨
-
 <div align="center">
-  <img width="100%" src="https://i.imgur.com/r4pKm5M.gif"  />
+    <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%"    alt="profile" border="0"/>
+
+  <img src="https://i.imgur.com/KXx0cCx.gif" width="100%" height="100%">
 </div>
 
-## 👾 About Me ~ 僕は誰？
+## ✨ Musa no GitHub ~ 闇の中に光る希望 ✨
 
 **Name:** Musa 「ムサ」  
 **Class:** Full-Stack Developer (Aspiring!)  
@@ -29,7 +29,7 @@ My dream? To land a tech job, defeat my rival, and… m-maybe make *Sushi-senpai
 
 
 
-## GitHub Stats
+
 ## GitHub Stats
 <div align="center" style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap">
   <img src="https://github-readme-stats.vercel.app/api?username=misa-de-codes&show_icons=true&theme=radical" alt="GitHub Stats">
