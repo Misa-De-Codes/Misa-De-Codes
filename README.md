@@ -1,7 +1,9 @@
 # ✨ Musa no GitHub ~ 闇の中に光る希望 ✨
 
-<div align="center">
-  <img src='https://youtu.be/22tJr6bHqL0?si=jHvj7Eojc7ohHArb' alt="visitor count" style='width: 640px'>
+<div align="center" style='displat: flex; justify-context: center'>
+  <a target="_blank">
+    <img style='object-fit: cover; width: 640px; height: 360px' src="pictures/anime-girl-anime.gif" height="30">
+  </a>
 </div>
 
 ## 👾 About Me ~ 僕は誰？
@@ -80,3 +82,15 @@ My dream? To land a tech job, defeat my rival, and… m-maybe make *Sushi-senpai
 ---
 
 > 「If life is an anime… then I’m still in Episode 1. But I’ll make it to the climax… with code and guts!」
+
+<div align="center" style='display: flex '>
+  <a href="https://www.instagram.com/MUSA_DE_CODES" target="_blank">
+    <img style='height: 200px' src="pictures/mente-moment.gif" height="30">
+  </a>
+    <a href="https://www.instagram.com/MUSA_DE_CODES" target="_blank">
+    <img style='height: 200px' src="pictures/mente-moment.gif" height="30">
+  </a>
+    <a href="https://www.instagram.com/MUSA_DE_CODES" target="_blank">
+    <img style='height: 200px' src="pictures/mente-moment.gif" height="30">
+  </a>
+</div>
