@@ -1,7 +1,7 @@
 # ✨ Musa no GitHub ~ 闇の中に光る希望 ✨
 
-<div align="center" style='displat: flex; justify-context: center'>
-        <video src="https://tenor.com/view/anime-girl-anime-anime-blush-blush-cute-gif-17760032"></video>
+<div align="center">
+        <video src="/pictures/My Dress-up b.mp4"></video>
 </div>
 
 
