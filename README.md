@@ -1,10 +1,11 @@
 # ✨ Musa no GitHub ~ 闇の中に光る希望 ✨
 
 <div align="center" style='displat: flex; justify-context: center'>
-  <a target="_blank">
-    <img style='width: 640px' src="pictures/anime-girl-anime.gif" height="30">
-  </a>
+        <video src="https://tenor.com/view/anime-girl-anime-anime-blush-blush-cute-gif-17760032"></video>
 </div>
+
+
+
 
 ## 👾 About Me ~ 僕は誰？
 
