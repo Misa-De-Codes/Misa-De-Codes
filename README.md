@@ -3,4 +3,4 @@ Build skills → Land a dev job → Stack cash → Live like an isekai NEET (but
 
 > Work remote. Earn big. Watch anime. Read manga. Repeat. [**:P**](https://musa-de-codes.netlify.app/)
 
->*u can join my otaku party on Discord*  [**👈(ﾟヮﾟ👈)**](https://discord.gg/h8JSezSpZR)
+*u can join my otaku party on Discord*  [**👈(ﾟヮﾟ👈)**](https://discord.gg/h8JSezSpZR)
