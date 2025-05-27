@@ -16,7 +16,6 @@ function App() {
     <>
       <Hero />
       <main>
-
         <Skills />
         <Projects />
       </main>
