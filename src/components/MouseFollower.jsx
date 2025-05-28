@@ -63,7 +63,7 @@ function MouseFollower() {
         transform: "translate(-50%, -50%)",
         transition: "opacity 0.5s ease", // ✨ smooth fading
         opacity: 0,
-        zIndex: 9999,
+        zIndex: -9999,
       }}
     />
   );

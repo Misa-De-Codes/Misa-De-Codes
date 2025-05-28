@@ -22,7 +22,7 @@ export default function Bubbles() {
     // Generate random bubbles
     const newBubbles = Array.from({ length: 15 }, (_, i) => ({
       id: i,
-      size: Math.random() * 60 + 20, // Size between 20-80px
+      size: Math.random() * 60 + 25, // Size between 20-80px
       position: {
         x: Math.random() * 100,
         y: Math.random() * 100,

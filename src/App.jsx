@@ -5,8 +5,8 @@ import Bot from "./components/Bot.jsx";
 import MouseFollower from "./components/MouseFollower.jsx";
 import { useState } from "react";
 import Img from './components/Img.jsx'
-import Bubbles from './components/Bubbles.jsx'
 import Hero from "./components/Hero.jsx";
+import Bubble from './components/Bubbles.jsx';
 function App() {
 
   const [isVisible, setIsVisible] = useState(false)
@@ -23,6 +23,7 @@ function App() {
       <Bot setIsVisible={setIsVisible} />
       <MouseFollower />
       <Img />
+      <Bubble />
     </>
   )
 }
