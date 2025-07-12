@@ -56,7 +56,7 @@ export default function Bubbles() {
           }
         `}
       </style>
-      <div className="fixed inset-0 pointer-events-none -z-100">
+      <div className="hidden lg:flex fixed inset-0 pointer-events-none -z-100">
         {bubbles.map((bubble) => (
           <Bubble key={bubble.id} {...bubble} />
         ))}
