@@ -1,5 +1,5 @@
 ##  <img src="https://cdn.discordapp.com/emojis/1316402413107941487.webp" width="24" height="24"/> おはようございます
-> I tell my computer to do hard things and sometime it does!   [:P]()
+> I tell my computer to do hard things and sometime it does!   [:P](https://discord.gg/QcHQKYw2ex)
 
 <div style='display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; align-items: center;'>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=misa-de-codes&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
