@@ -20,3 +20,4 @@ To build a world with keys and care,
 Where light and love are everywhere.
 ```
 
+> Typing is my workout. Notes are my gym. My job is code. So I type
